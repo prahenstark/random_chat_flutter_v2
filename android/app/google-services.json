@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "895603974704",
+    "project_id": "random-chat-flutter-e159e",
+    "storage_bucket": "random-chat-flutter-e159e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895603974704:android:e8c3da51cb4433cf6c43f5",
+        "android_client_info": {
+          "package_name": "com.example.random_chat_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895603974704-bnhkjktlb881oi833enass6sodgs0d38.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.random_chat_flutter",
+            "certificate_hash": "a306a37d06d55fb58116c3330588ad7707d69181"
+          }
+        },
+        {
+          "client_id": "895603974704-72qr3jkii22kdlc2u2tl634r0ggbqt2h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxuQKNbxfSanbKujLMpEo5ZRhoE30C8LE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895603974704-72qr3jkii22kdlc2u2tl634r0ggbqt2h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895603974704:android:422eb05725adef8b6c43f5",
+        "android_client_info": {
+          "package_name": "com.example.random_chat_flutter_v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895603974704-72qr3jkii22kdlc2u2tl634r0ggbqt2h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxuQKNbxfSanbKujLMpEo5ZRhoE30C8LE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895603974704-72qr3jkii22kdlc2u2tl634r0ggbqt2h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
